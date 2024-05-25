@@ -82,7 +82,7 @@ function imprimir() {
   let status = obterStatus(salarioLiquido, idade, valorExperienca)
 
   //output
-  let mensagem = "Sou " + nome + ", meu e-mail é " + email + ", tenho " + idade + " anos e ganho R$" + salarioLiquido + " e sou " + status
+  let mensagem = "Me chamo " + nome + ", meu e-mail é " + email + ", tenho " + idade + " anos e atualmente ganho R$" + salarioLiquido + " e sou " + status
 
   criarItemHistorico(mensagem)
   
