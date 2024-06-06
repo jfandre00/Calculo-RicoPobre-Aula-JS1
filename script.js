@@ -1,3 +1,5 @@
+//inicio
+
 let divHistorico = document.getElementById("div-historico");
 divHistorico.style.display = "none";
 
